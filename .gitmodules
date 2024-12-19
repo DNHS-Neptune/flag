@@ -1,0 +1,3 @@
+[submodule "static/f"]
+	path = static/f
+	url = https://github.com/hampusborgos/country-flags.git
